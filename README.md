@@ -4,7 +4,8 @@ Pakistani Numbers Detail Extractor || Get Anyone Cnic Number , Name , Father Nam
 # Others 
     
 <img src="https://img.shields.io/badge/Free-TooI-blueviolet"> 
-<img src="https://img.shields.io/badge/Qaiser-Abbas-Official-Tool-greenviolet"> 
+
+<img src="https://img.shields.io/badge/Qaiser Abbas Official-Tool-greenviolet"> 
 
 # How To Install
 ```

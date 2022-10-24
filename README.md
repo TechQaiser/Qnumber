@@ -1,7 +1,7 @@
 # Qnumber
 Pakistani Numbers Detail Extractor || Get Anyone Cnic Number , Name , Father Name , Address , And All Sim Infos
 
-# How To Install ?
+# How To Install
 ```
 cd && rm -rf Qnumber 
 pkg update && upgrade

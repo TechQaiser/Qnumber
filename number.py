@@ -1,4 +1,5 @@
 import os
+os.system('git pull')
 import platform as d
 main = d.uname().machine
 if '64' in main:

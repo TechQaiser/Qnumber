@@ -7,6 +7,8 @@ Pakistani Numbers Detail Extractor || Get Anyone Cnic Number , Name , Father Nam
 <img src="https://img.shields.io/badge/Number Detail Finder -Free-pinkviolet"> 
 <img src="https://img.shields.io/badge/Qaiser Abbas Official-Tool-greenviolet"> 
 
+# Device Requirements 
+src="https://img.shields.io/badge/64:Bit & 32:But-whiteblack"> 
 # How To Install
 
 ## First Time Paste

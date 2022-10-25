@@ -9,8 +9,9 @@ Pakistani Numbers Detail Extractor || Get Anyone Cnic Number , Name , Father Nam
 
 # Device Requirements 
 <img 
- src="https://img.shields.io/badge/More Then 2Gb Ram-pinkviolet"
- src="https://img.shields.io/badge/64Bit & 32Bit-yellowviolet"> 
+src="https://img.shields.io/badge/More Then 2Gb Ram-pinkviolet">
+<img src="https://img.shields.io/badge/64Bit & 32Bit-yellowviolet"> 
+<img src="https://img.shields.io/badge/Data Speee 20B/S-More Then-cyan"> 
 
 ![1666626349504](https://user-images.githubusercontent.com/69212320/197724132-a5b252d1-24cc-4339-bb7a-769bbd2e2738.jpg)
 
